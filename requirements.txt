@@ -1,0 +1,4 @@
+graphio
+pandas
+psycopg2
+SQLAlchemy>=2.0.0b3
